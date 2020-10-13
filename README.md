@@ -8,11 +8,11 @@ There are three family cell phone plans available (all of them are 2 year plans)
 <pre>       (3) Plan C – (Canada wide calling with 12GB shared data)</pre>
 You can add as many lines to the shared plan as you want and you will get $10 discount for each
 added line. You also get $10 discount if you bring your own phone (BYOP). The details for cell
-phone discounts with each plan and along with plan price tags are tabulated below.<br>
+phone discounts with each plan and along with plan price tags are tabulated below.<br><br>
 ![](images/phonePlan.png)
-<br>Write a program that helps a user decide which plan works better for him. The program should ask the user to enter the total number of phone lines and whether or not a phone needs to be purchased with each line.<br>
+<br><br>Write a program that helps a user decide which plan works better for him. The program should ask the user to enter the total number of phone lines and whether or not a phone needs to be purchased with each line.<br>
 Compare all three plan costs and provide the user with all his options.<br>
-Here are a few sample outputs to illustrate the expected behavior of your program:
-![](images/examoles1.png)
+Here are a few sample outputs to illustrate the expected behavior of your program:<br>
+![](images/example1.png)
 <br>
-![](images/examoles2.png)
+![](images/example2.png)
