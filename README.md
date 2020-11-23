@@ -12,7 +12,7 @@ phone discounts with each plan and along with plan price tags are tabulated belo
 ![](images/phonePlan.png)
 <br><br>Write a program that helps a user decide which plan works better for him. The program should ask the user to enter the total number of phone lines and whether or not a phone needs to be purchased with each line.<br>
 Compare all three plan costs and provide the user with all his options.<br>
-Here are a few sample outputs to illustrate the expected behavior of your program:<br>
+Here are a few sample outputs to illustrate the expected behavior of your program:<br><br>
 ![](images/example1.png)
 <br>
 ![](images/example2.png)
